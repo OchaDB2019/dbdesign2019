@@ -25,4 +25,5 @@
 
 ### サンプルデータベースについて
 * [データベース](twitter.db)
+* [twitterサンプルデータベースの内容紹介](twitter_sample_db.pdf)
 * [SQLiteの使い方](SQLite.pdf)
