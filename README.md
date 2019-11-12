@@ -7,8 +7,8 @@
 |2  |10/8  |データベース設計  |[PDF](2nd.pdf) [好きなアプリ一覧](favolite_applications.md)|
 |3  |10/15 |リレーショナルデータモデル |[PDF](3rd.pdf) |
 |4  |10/29 |制約と制御言語 |[PDF](4th.pdf),[Sample DB](twitter.db) |
-|5  |11/5 | | |
-|6  |11/12 | | |
+|5  |11/5 |演習：論理設計, 講義：関係代数とSQL |[PDF](5th.pdf) |
+|6  |11/12 |演習：関係代数とSQL |[SQLドリルの提出方法](sqldrill_submit.pdf) |
 |7  |11/19 | | |
 |8  |11/26 | | |
 |-  |12/3  | 休講 | |
@@ -22,4 +22,8 @@
 
 ### グループ課題について
 * [概要](groupwork.md)
-### レポート
+
+### サンプルデータベースについて
+* [データベース](twitter.db)
+* [twitterサンプルデータベースの内容紹介](twitter_sample_db.pdf)
+* [SQLiteの使い方](SQLite.pdf)
