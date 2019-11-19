@@ -9,7 +9,7 @@
 |4  |10/29 |制約と制御言語 |[PDF](4th.pdf),[Sample DB](twitter.db) |
 |5  |11/5 |演習：論理設計, 講義：関係代数とSQL |[PDF](5th.pdf) |
 |6  |11/12 |演習：関係代数とSQL |[SQLドリルの提出方法](SQLdrill_submit.pdf) |
-|7  |11/19 |SQL: 集約演算・作成・修正・削除|[PDF](6th.pdf),[作成/修正/削除](create_delete_update_sql.pdf) |
+|7  |11/19 |SQL: 集約演算・作成・修正・削除|[PDF](6th.pdf),[作成/修正/削除](create_delete_update_sql.pdf) [課題自動チェック](自動チェック.md)|
 |-  |11/26 | 休講 | |
 |-  |12/3  | 休講 | |
 |8  |12/10 | | |
