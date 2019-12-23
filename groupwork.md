@@ -98,3 +98,6 @@
       * 実行結果の画面
       * プログラムと解説
       * 工夫したところ
+    * サンプルプログラム
+      * [基本形](https://github.com/OchaDB2019/sample1)
+      * [画像を使ったもの](https://github.com/OchaDB2019/sample2)
