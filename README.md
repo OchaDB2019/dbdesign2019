@@ -20,6 +20,9 @@
 |12 |1/21  |SQLインジェクション, 他のデータモデル |[PDF](other_datamodel.pdf) |
 |13 |1/28  | 試験 | |
 
+### 演習問題
+* [演習問題](exercises.pdf)
+
 ### グループ課題について
 * [概要](groupwork.md)
 
